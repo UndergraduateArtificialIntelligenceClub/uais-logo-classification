@@ -1,0 +1,12 @@
+data/obj_train_data/22.jpeg
+data/obj_train_data/23.jpeg
+data/obj_train_data/24.jpeg
+data/obj_train_data/25.jpeg
+data/obj_train_data/26.jpeg
+data/obj_train_data/27.jpeg
+data/obj_train_data/28.jpeg
+data/obj_train_data/29.jpeg
+data/obj_train_data/30.jpeg
+data/obj_train_data/31.jpeg
+data/obj_train_data/32.jpeg
+data/obj_train_data/33.jpeg
